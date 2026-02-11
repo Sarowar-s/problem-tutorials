@@ -70,6 +70,10 @@ This calculates how many runs per over are required in the remaining balls.
 ## C++ Implementation
 
 ```cpp
+//------ Contributor ~ --------//
+//------ MD. S. M. Sarowar Hossain --------//
+//------ Varendra University --------//
+
 #include <iostream>
 #include <iomanip> // for setprecision and fixed value
 
